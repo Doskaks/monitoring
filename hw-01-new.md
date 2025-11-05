@@ -44,11 +44,18 @@
 
 ### Решение 1
 
+![hw-01-new_monitoring_yandex_cloud](https://github.com/Doskaks/monitoring/blob/main/hw-01-new_monitoring_yandex_cloud.jpg)
+
 _____________________________________________________________________________
 
 ### Задание 2 
 
 С помощью Yandex Monitoring сделайте 2 алерта на загрузку процессора: WARN и ALARM. Создайте уведомление по e-mail.
+
+
+### Решение 2
+
+![hw-01-new_alert](https://github.com/Doskaks/monitoring/blob/main/hw-01-new_alert.jpg)
 
 
 
